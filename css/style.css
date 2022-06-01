@@ -1,0 +1,63 @@
+
+html, body {
+    min-height: 200%;
+}
+body { background-color: white; }
+
+
+.test {
+    height: 150px;
+}
+
+h1 {
+    color: rgba(0, 86, 119, 1);
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 84.69%;
+    font-feature-settings: "cpsp" on;
+    font-style: normal;
+    position: fixed;
+    width: 1013px;
+    height: 29.87px;
+    left: 213px;
+    top: 202.13px;
+    background-color: rgba(196, 196, 196, 1);
+    text-transform: uppercase;
+    }
+h1 {
+    display: flex;
+    align-items: center;
+}
+#batilogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: rgba(230, 230, 230, 1);
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+}
+
+.none {
+    list-style-type: none;
+}
+
+footer {
+    background-color: rgba(0, 86, 119, 1);
+}
+
+h2 {
+    color: rgba(0, 86, 119, 1);
+    background-color: rgba(196, 196, 196, 1);
+    text-transform: uppercase;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+}
